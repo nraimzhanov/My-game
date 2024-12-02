@@ -116,4 +116,4 @@ Add different difficulty levels: I could offer easy, medium, and hard modes to c
 Conclusion
 This Soccer Adventure Game is a fun and interactive way to test your soccer knowledge and decision-making skills. It's a great example of how to combine storytelling, problem-solving, and programming to create an engaging experience. I hope you enjoy playing the game as much as I enjoyed developing it!
 
-If you have any questions or suggestions, feel free to reach out to me. Have fun playing! ⚽🎮
+If you have any questions or suggestions, feel free to reach out to me. Have fun playing! ⚽
